@@ -24,3 +24,10 @@ The OwlSint tool is a tool for searching phone number information and for tracki
 # All menu
 ![Screenshot_2023-12-21-08-17-35-10](https://github.com/IccTeam/Owl-sint/assets/143928335/63d78629-e540-45ee-90ca-0edbb2adf567)
 
+| All Menu | ✔️ |
+|--------|--------|
+| **Phone Number Information** |[✔️] |
+| **Track Ip Address** |[✔️] |
+| **Instagram Information User** |[✔️] |
+| **About** |[✔️] |
+---------
