@@ -22,4 +22,5 @@ The OwlSint tool is a tool for searching phone number information and for tracki
      git clone https://github.com/IccTeam/Owl-sint
 
 # All menu
-![IMG_20231130_212316](https://github.com/IccTeam/Owl-sint/assets/143928335/cb28ed8e-2e9b-4f58-89a5-e9d9d0efbab4)
+![Screenshot_2023-12-21-08-17-35-10](https://github.com/IccTeam/Owl-sint/assets/143928335/63d78629-e540-45ee-90ca-0edbb2adf567)
+
