@@ -5,7 +5,7 @@
 ![owlsint-removebg-preview](https://github.com/IccTeam/Owl-sint/assets/143928335/14dfe6f1-27d7-40d4-a73c-f77e95c2394d)
  <h2><img src="https://img.shields.io/badge/Author-Mr,OwlBird05-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-owlsint-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.0-9cf"/>
+<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.2-9cf"/>
 <img src="https://img.shields.io/github/issues/IccTeam/Owl-sint.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/issues-closed/IccTeam/Owl-sint.svg?color=%2300cc00"/> <img
 <img src="https://img.shields.io/github/forks/IccTeam/Owl-sint.svg?color=%23ffff00"/> <img
