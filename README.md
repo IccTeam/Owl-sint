@@ -27,7 +27,7 @@ The OwlSint tool is a tool for searching phone number information and for tracki
 | All Menu | ✔️ |
 |--------|--------|
 | **Phone Number Information** |✔️ |
-| **Track Ip Address** |✔️ |
-| **Instagram Information User** |✔️ |
+| **Track Ip** |✔️ |
+| **Instagram User Information** |✔️ |
 | **About** |✔️ |
 ---------
