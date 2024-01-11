@@ -42,6 +42,7 @@ pip install phonenumbers
 pip2 install phonenumbers
 pip install datetime
 pip2 install datetime
+pip3 install --upgrade instaloader 
 echo -e "\u001b[32mDone installing pip!"
 echo -e "Running Tools..."
 sleep 5
